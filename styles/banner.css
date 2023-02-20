@@ -1,0 +1,30 @@
+.banner {
+	background-image: url('../images/image1.jpg');
+	background-size: cover;	
+	height: 65vh;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+}
+
+.banner h1{
+	color: lightpink;
+	text-shadow: 1px 1px 1px black;
+	text-decoration: none;
+}
+
+.banner h2{
+	color: hotpink;
+	text-shadow: 1px 1px 1px black;
+}
+.banner h3{
+	text-decoration: none;
+}
+
+.banner a {
+	text-decoration: none;
+	text-decoration-color: black;
+}
